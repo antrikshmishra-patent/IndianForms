@@ -1,0 +1,7 @@
+{
+  "name": "Indian Patent Office Form Filler",
+  "description": "AI-powered document and email scanner that extracts invention and applicant data into official Indian Patent Office (IPO) statutory forms (Form 1, 2, 3, 5, and 26).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
